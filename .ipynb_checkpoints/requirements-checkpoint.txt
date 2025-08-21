@@ -19,6 +19,7 @@ lightgbm==4.3.0
 # Deep learning (tf.keras)
 tensorflow==2.15.0
 
+
 # Explainability
 shap==0.45.0
 
