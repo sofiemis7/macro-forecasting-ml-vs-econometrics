@@ -1,2 +1,4 @@
 # Ignore Jupyter notebook checkpoints
 .ipynb-checkpoints/
+data/.ipynb_checkpoints/oecd_cpi_q-checkpoint.csv
+data/.ipynb_checkpoints/snb-data-snboffzisa-en-selection-20250821_0900-checkpoint
