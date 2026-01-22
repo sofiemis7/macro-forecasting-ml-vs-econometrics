@@ -14,10 +14,12 @@ Forecasting economic indicators is critical for central banks, policy planners, 
 ## Objectives
 
 - Forecast macroeconomic indicators using real-world time series data
-- Compare performance between classical econometric models and machine learning techniques
+- Compare performance between classical econometric models and machine learning techniques when:
+    (i) predictors are high-dimensional,
+    (ii) relationships are non-linear, and
+    (iii) structural breaks are present.
 - Highlight trade-offs in accuracy, interpretability, and policy implications
 - Provide a modular, extensible framework for future experimentation
-
 ---
 
 ## Target Indicators
