@@ -1,0 +1,32 @@
+- Macroeconomic targets are taken from OECD to ensure internationally harmonized definitions, while predictors are drawn primarily from FRED to construct a rich real-time information set including financial, labor market, and leading indicators.
+
+✅ Targets (OECD)
+	•	OECD CPI inflation
+	•	OECD unemployment rate
+	•	OECD real GDP growth
+
+✅ Predictors (FRED)
+
+Real activity
+	•	Industrial Production (INDPRO)
+	•	Retail sales
+	•	Capacity utilization
+
+Labor leading indicators
+	•	Initial jobless claims
+	•	Avg weekly hours
+
+Monetary & financial
+	•	Fed Funds rate
+	•	Yield curve spreads
+	•	Credit spreads
+	•	Financial Conditions Index
+
+Expectations
+	•	Consumer sentiment
+	•	Inflation expectations
+
+-> Split:
+	•	OECD = what we forecast
+	•	FRED = information set available to forecasters
+     -> avoid mixing OECD targets with FRED predictors due to measurement leakage or conceptual redundancy
