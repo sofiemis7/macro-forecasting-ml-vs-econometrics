@@ -27,6 +27,8 @@ Forecasting economic indicators is critical for central banks, policy planners, 
 - **Consumer Price Index (CPI)** – as a measure of inflation
 - **Unemployment Rate**
 - **Real GDP Growth**
+- **Industrial Production: Total Index (INDPRO)** 
+- **Personal Consumption Expenditure**
 
 All data are quarterly and span from **Q1 2000 to Q2 2025**.
 
@@ -35,7 +37,7 @@ All data are quarterly and span from **Q1 2000 to Q2 2025**.
 ## Data Sources
 
 - [OECD.Stat](https://stats.oecd.org)
-- [Swiss National Bank (SNB)](https://data.snb.ch)
+- [Federal Reserve Bank of St. Louis (FRED)](https://fred.stlouisfed.org/)
 - [International Monetary Fund (IMF)](https://www.imf.org/en/Data)
 
 ---
